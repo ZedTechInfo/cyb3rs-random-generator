@@ -17,10 +17,11 @@ If you enjoy this application and would like to support its development, you can
 
 ### Bitcoin
 
-You can send Bitcoin to the following address: `bc1qxy2kgdygjrsqtzq2n0yrf2493p83kkfjhx0wlh`
+You can send Bitcoin to the following address: `1MFqbG6VqbK4dcSUMDaBxtgH9ihw254Yns`
 
 ### Payment Link
 
-Alternatively, you can use this payment link: [https://paypal.me/JaredBatten](https://paypal.me/JaredBatten)
+Coming soon!!!
+<!-- Alternatively, you can use this payment link: [https://paypal.me/](https://paypal.me/) -->
 
-For help with flutter please view the [online documentation](https://docs.flutter.dev/), which offers tutorials, samples, guidance on mobile development, and a full API reference.
+Thanks for your support, please feel free to fork and contribut to this growing idea and freedom from ads.
