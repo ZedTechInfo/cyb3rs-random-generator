@@ -1,4 +1,4 @@
-# random_string
+# Random String
 
 This Flutter application generates a random string of characters.
 
@@ -24,4 +24,4 @@ You can send Bitcoin to the following address: `1MFqbG6VqbK4dcSUMDaBxtgH9ihw254Y
 Coming soon!!!
 <!-- Alternatively, you can use this payment link: [https://paypal.me/](https://paypal.me/) -->
 
-Thanks for your support, please feel free to fork and contribut to this growing idea and freedom from ads.
+Thanks for your support, please feel free to fork and contribut to this growing idea and freedom from ads and profit making schemes.
